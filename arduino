@@ -1,0 +1,8 @@
+projeto-front-end/
+├── index.html
+├── css/
+│   └── styles.css
+├── js/
+│   └── scripts.js
+└── assets/
+    └── imagens/
